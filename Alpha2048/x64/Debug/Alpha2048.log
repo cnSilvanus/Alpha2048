@@ -1,0 +1,57 @@
+﻿  pch.cpp
+  Alpha2048.cpp
+  Alpha2048Dlg.cpp
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(120,99): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [41]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(120,39): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(121,105): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [43]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(121,40): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(122,90): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [35]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(122,37): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(123,90): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [35]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(123,37): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(124,90): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [35]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(124,37): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(125,90): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [35]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(125,37): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(126,79): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [27]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(126,38): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(127,78): error C2664: “BOOL CToolTipCtrl::AddTool(CWnd *,UINT,LPCRECT,UINT_PTR)”: 无法将参数 2 从“const char [27]”转换为“UINT”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(127,37): message : 没有使该转换得以执行的上下文
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxcmn.h(1534,7): message : 参见“CToolTipCtrl::AddTool”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(199,6): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Dlg.cpp(199,6): message : 尝试匹配参数列表“(const char [47], long)”时
+  Alpha2048Game.cpp
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(149,166): error C2664: “BOOL CFont::CreateFontW(int,int,int,int,int,BYTE,BYTE,BYTE,BYTE,BYTE,BYTE,BYTE,BYTE,LPCTSTR)”: 无法将参数 14 从“const char [9]”转换为“LPCTSTR”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(149,152): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(428,7): message : 参见“CFont::CreateFontW”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(193,76): error C2664: “int CDC::DrawTextW(LPCTSTR,int,LPRECT,UINT)”: 无法将参数 1 从“char [10]”转换为“LPCTSTR”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(193,17): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(838,14): message : 参见“CDC::DrawTextW”的声明
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(463,114): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(463,114): message : 尝试匹配参数列表“(const char [64])”时
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(480,6): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(480,6): message : 尝试匹配参数列表“(const char [33], long)”时
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(510,121): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(510,121): message : 尝试匹配参数列表“(const char [69])”时
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(541,121): error C2665: “AfxMessageBox”: 2 个重载中没有一个可以转换所有参数类型
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6549,12): message : 可能是“int AfxMessageBox(UINT,UINT,UINT)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxwin.h(6547,12): message : 或    “int AfxMessageBox(LPCTSTR,UINT,UINT)”
+D:\Documents\WorkSpace\Alpha2048\Alpha2048\Alpha2048Game.cpp(541,121): message : 尝试匹配参数列表“(const char [69])”时
+  Alpha2048Info.cpp
+  MyRect.cpp
+  正在生成代码...

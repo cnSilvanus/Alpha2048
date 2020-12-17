@@ -3,5 +3,4 @@
 
  Alpha 2048 
  Based on Visual C++ MFC.
- Debug with x86.
- Using Visual Studio Community 2019.
+ Debug with x86 Visual Studio Community 2019.
